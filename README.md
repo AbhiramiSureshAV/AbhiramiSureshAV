@@ -2,7 +2,7 @@
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on datascience projects
-- 📫 How to reach me abhirami4980@gmail.com
+- 📫 How to reach me abhiramis4980@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
