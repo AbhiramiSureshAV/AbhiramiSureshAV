@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiramiSureshAV
 - 👀 I’m interested in datascience
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on datascience projects
 - 📫 How to reach me abhiramis4980@gmail.com
 - 😄 Pronouns: she/her
